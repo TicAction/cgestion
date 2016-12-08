@@ -1,0 +1,2 @@
+msgid "I'm the best"
+msgstr "Je suis le meilleur"
